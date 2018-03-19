@@ -6,7 +6,7 @@
 
 Con [Bootstrap](https://getbootstrap.com/) puedes implementar tanto prototipos rápidos como productos acabados, esto mediante el uso de los lenguajes habituales de Front-End para Web: Elementos de HTML5 relacionados con reglas de CSS3 traducidas de [Sass](https://sass-lang.com/) ([Less](http://lesscss.org/) en versiones anteriores a la 4), además de Javascript simplificado por la biblioteca [jQuery](https://jquery.com/).
 
-Hay distintas maneras para comenzar a trabajar con Boostrap. Un grupo de opciones está en su [descarga](https://getbootstrap.com/docs/4.0/getting-started/download/), pero una opción mucho más rápida es Bootstrap[CDN](https://es.wikipedia.org/wiki/Red_de_entrega_de_contenidos). Para usar esta última opción, el documento HTML debe verse de la siguiente manera: 
+Hay distintas maneras para comenzar a trabajar con Boostrap. Un grupo de opciones parten en su [descarga](https://getbootstrap.com/docs/4.0/getting-started/download/), pero una opción mucho más rápida es Bootstrap[CDN](https://es.wikipedia.org/wiki/Red_de_entrega_de_contenidos). Para usar esta última opción, el documento HTML debe verse, inicialmente, de la siguiente manera: 
 
 ```<!doctype html>
 <html>
