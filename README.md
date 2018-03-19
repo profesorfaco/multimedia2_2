@@ -40,3 +40,11 @@ Luego, confiando en la red de entrega de contenidos (Bootstrap[CDN](https://es.w
 	</div>
 </div>
 ```
+
+Entre las recién referidas, la clase más interesante es la de columnas (`class="col-…"`), en tanto ofrece varias opciones que  permiten indicar "cuántas columnas se toman" según el ancho del contenedor en la pantalla donde se visualiza el documento HTML. Las opciones se explican en [Grid System](https://getbootstrap.com/docs/4.0/layout/grid/#grid-options).
+
+Para seguir avanzando vamos a trabajar en un documento HTML, haciendo consultas al sitio oficial de Boostrap sobre:
+
+- [Utilities for layout](https://getbootstrap.com/docs/4.0/layout/utilities-for-layout/)
+- [Typography](https://getbootstrap.com/docs/4.0/content/typography/)
+- [Tables](https://getbootstrap.com/docs/4.0/content/tables/)
