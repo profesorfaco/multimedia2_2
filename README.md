@@ -34,7 +34,7 @@ Luego, confiando en la red de entrega de contenidos (Bootstrap[CDN](https://es.w
 ```
 <div class="container">
 	<div class="row">
-    <div class="col-12">Ancho completo</div>
+		<div class="col-12">Ancho completo</div>
 		<div class="col-6">Mitad de 12</div>
 		<div class="col-6">Mitad de 12</div>		
 	</div>
