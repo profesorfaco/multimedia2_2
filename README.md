@@ -48,3 +48,7 @@ Para seguir avanzando vamos a trabajar en un documento HTML, haciendo consultas 
 - [Utilities for layout](https://getbootstrap.com/docs/4.0/layout/utilities-for-layout/)
 - [Typography](https://getbootstrap.com/docs/4.0/content/typography/)
 - [Tables](https://getbootstrap.com/docs/4.0/content/tables/)
+
+- - - - - 
+
+[Clase anterior](https://github.com/profesorfaco/multimedia2_1) | [Siguiente clase](https://github.com/profesorfaco/multimedia2_3)
